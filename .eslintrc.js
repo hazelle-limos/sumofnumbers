@@ -13,6 +13,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
+  },
   rules: {
     'arrow-parens': 'off',
     'func-names': 'off',
