@@ -1,5 +1,3 @@
-const _ = require('underscore');
-
 const testNums = [1, 2, 3];
 
 function sumFor(nums) {
